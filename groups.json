@@ -1,0 +1,80 @@
+[
+    {
+        "Id":"1",
+        "name":"group 1",
+        "devices":[
+        {
+            "id":11,
+            "name":"device 11",
+            "active":0
+        },
+        {
+            "id":12,
+            "name":"device 12",
+            "active":1
+        },
+        {
+            "id":13,
+            "name":"device 13",
+            "active":0
+        },
+        {
+            "id":14,
+            "name":"device 14",
+            "active":1
+        }
+        ]
+    },
+     {
+        "Id":"2",
+        "name":"group 2",
+        "devices":[
+        {
+            "id":21,
+            "name":"device 21",
+            "active":0
+        },
+        {
+            "id":22,
+            "name":"device 22",
+            "active":1
+        },
+        {
+            "id":23,
+            "name":"device 23",
+            "active":0
+        },
+        {
+            "id":24,
+            "name":"device 24",
+            "active":1
+        }
+        ]
+    },
+    {
+        "Id":"3",
+        "name":"group 3",
+        "devices":[
+        {
+            "id":31,
+            "name":"device 31",
+            "active":1
+        },
+        {
+            "id":32,
+            "name":"device 32",
+            "active":1
+        },
+        {
+            "id":33,
+            "name":"device 33",
+            "active":0
+        },
+        {
+            "id":34,
+            "name":"device 34",
+            "active":1
+        }
+        ]
+    }
+]
